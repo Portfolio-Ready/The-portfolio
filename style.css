@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+nav{
+    margin-top: 2rem;
+}
+
+
+ul{  
+    list-style: none;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap:4rem;
+}
+
+
+ul li a{
+    text-decoration: none;
+}
+
